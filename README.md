@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## Site url:-
+## App url:-
 https://keen-northcutt-10e630.netlify.app/
 ## Available Scripts
 
