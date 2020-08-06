@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## App url:-
-https://keen-northcutt-10e630.netlify.app/
+https://abdul-todo-app.cf/
 ## Available Scripts
 
 In the project directory, you can run:
